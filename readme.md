@@ -1,2 +1,2 @@
-CSS был использован в таблицах, так как в HTML5 без CSS нельзя удобно работать с таблицами.
-Задание было сделано 06.03, что можно посмотреть по метаданным файла index.html
+# MFUA-WebProgramming
+Images inside html\img folder like the pdf file inside html folder was granted by Мачкова Наталья Валерьевна from MFUA. I do not have rights to these files.
