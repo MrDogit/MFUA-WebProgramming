@@ -1,7 +1,6 @@
 body {
     margin: auto; /* Контент выровнен по середине. */
     width: 70%; /* Контент занимает 70% ширины страницы. */
-    /*font-family: Arial;*/
 }
 h1,
 h2,
@@ -16,5 +15,16 @@ h6 {
 h1 {
     font-size: 32px; /* Заголовки первого уровня имеют размер 32px. */
 }
-table {
+table,
+th,
+td {
+    border: 1px solid; /* Таблицы имеют непрерывные границы чёрного цвета толщиной 1px. */
+}
+figure {
+    margin: 2px 10px 2px 10px;
+    padding: 0px;
+    float: right; /* Картинки обтекаются текстом. Картинки справа, текст слева. */
+    font-style: italic;
+    font-size: smaller;
+    text-align: right;
 }
